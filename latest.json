@@ -5,7 +5,7 @@
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHY0UUdoc2ZhSUdGRng3cHdFMk4yUjlaWnlvMjA1WVBCeTlRQTUvZ1NtdlhuVVFMbEI4dTJxS0ZaUTRGSEQ5Qmc1VTV2Tlp2SmJ5UmhvdFR4dE12NW1HdE95TURhYWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzI2MTMwCWZpbGU6SGlyYW55YV8wLjEuMF9hbWQ2NC5BcHBJbWFnZQo0Y1JvOUEyUFhvdHhvVllIbjlDdHFCVVMrTG00U2IzL1p6NGVQZ1orL1phcjBoU3JCZFJBMHBVZDNEQVVtQzV0QS85TG8vV3BaaVg5MytWTDM1R0tCZz09Cg==",
-      "url": "https://github.com/babaji1607/Hiranya-updates/v0.1.0/myapp.AppImage"
+      "url": "https://github.com/babaji1607/Hiranya-updates/releases/download/v0.1.0/Hiranya_0.1.0_amd64.AppImage"
     }
   }
 }
